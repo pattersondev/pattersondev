@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sam
-- 🌱 I'm thinking about learning swift, but want to get stronger with javascript.
-- 💞️ I'm open to working on any projects! The only bad experience is one you haven't had.
+- Hi, I'm Sam, thanks for stopping by, have a look around.
 - 📫 Reach me at pattersonrsam@gmail.com.
 
 Looking for internships or any work oppurtunities, feel free to reach out.
