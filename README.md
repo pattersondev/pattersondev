@@ -1,4 +1,5 @@
 - Hi, I'm Sam, thanks for stopping by, have a look around.
+- My other github is FvckFont, some other stuff on there, not much different though.
 - 📫 Reach me at pattersonrsam@gmail.com.
 
 Looking for internships or any work oppurtunities, feel free to reach out.
