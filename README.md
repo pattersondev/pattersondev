@@ -1,8 +1,7 @@
 - Hi, I'm Sam, thanks for stopping by, have a look around.
-- My other github is FvckFont, some other stuff on there, not much different though.
+- Currently a Software Engineer at Kickback
 - 📫 Reach me at pattersonrsam@gmail.com.
 
-Looking for internships or any work opportunities, feel free to reach out.
 
 <!---
 pattersondev/pattersondev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
