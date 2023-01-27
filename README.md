@@ -1,5 +1,5 @@
 - Hi, I'm Sam, thanks for stopping by, have a look around.
-- Currently a Software Engineer intern at Diameter Health.
+- Currently a Software Engineer at The Swift Group.
 - 📫 Reach me at pattersonrsam@gmail.com.
 
 
