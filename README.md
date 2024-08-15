@@ -1,5 +1,5 @@
 - Hi, I'm Sam, thanks for stopping by, have a look around.
-- Currently a Senior Software Engineer at Sona Networks.
+- Currently a Software Engineer at Sona Networks.
 - 📫 Reach me at pattersonrsam@gmail.com.
 
 
