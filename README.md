@@ -1,5 +1,5 @@
 - Hi, I'm Sam, thanks for stopping by, have a look around.
-- Currently a Software Engineer at Sona Networks.
+- Currently an unemployed Software Engineer, if you think I would be a fit at your company let me know!
 - 📫 Reach me at pattersonrsam@gmail.com.
 
 
